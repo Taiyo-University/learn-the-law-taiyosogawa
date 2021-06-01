@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+THIS IS A TOTALLY NEW THING
 
 ## 🤓 Course overview and learning outcomes 
 
